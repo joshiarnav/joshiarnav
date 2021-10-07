@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joshiarnav, a Computer Science Major & Business Minor at Northeastern University.
+- 👋 Hi, I’m @joshiarnav or Arnav Joshi, a Computer Science Major & Business Minor at Northeastern University.
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning about Artificial Intelligence & Machine Learning.
 - 💞️ I’m looking to collaborate on AI projects.
