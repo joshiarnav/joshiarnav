@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshiarnav or Arnav Joshi, a Computer Science Major & Business Minor at Northeastern University.
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning about Artificial Intelligence & Machine Learning.
-- 💞️ I’m looking to collaborate on AI projects.
+- 💞️ I’m looking to collaborate on AI and front-end projects.
 - 📫 How to reach me: joshi.arn@northeastern.edu.
 
 <!---
