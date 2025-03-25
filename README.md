@@ -6,8 +6,8 @@
 - 📫 How to reach me: [aj642@cornell.edu](mailto:aj642@cornell.edu).
 
 <br/>
-<a href="https://linkedin.com/in/arnav--joshi"><img src="./logos/Cornell.svg" height="80"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/arnav--joshi"><img src="./logos/Northeastern.png" height="80"></a>
+<a href="https://www.cs.cornell.edu/"><img src="./logos/Cornell.svg" height="80"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.khoury.northeastern.edu/"><img src="./logos/Northeastern.png" height="80"></a>
 
 
 ## 🌐 Socials:
