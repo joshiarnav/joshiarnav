@@ -6,8 +6,8 @@
 - 📫 How to reach me: [aj642@cornell.edu](mailto:aj642@cornell.edu).
 
 <br/>
-<a><img src="./logos/Cornell.svg" height="80"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a><img src="./logos/Northeastern.png" height="80"></a>
+<a><img src="./logos/Cornell.svg" height="80" align="center"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="./logos/Northeastern.png" height="80" align="center"></a>
 
 
 ## 🌐 Socials:
