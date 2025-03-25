@@ -1,7 +1,14 @@
-- 👋 Hi, I’m **@joshiarnav** or **Arnav Joshi**, a CS + AI Master's student at Cornell University.
+# Hi, I'm Arnav Joshi! <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="25">
+
+- 👋 I’m **@joshiarnav** or **Arnav Joshi**, a CS + AI Master's student at Cornell University.
 - 👀 I’m interested primarily in SWE & MLE opportunities, but please reach out for any interesting projects!
 - 🌱 I’m always looking to learn more about Artificial Intelligence & Machine Learning.
 - 📫 How to reach me: [aj642@cornell.edu](mailto:aj642@cornell.edu).
+
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cornell_University_seal.svg/1200px-Cornell_University_seal.svg.png" width="100">
+<img src="https://brand.cornell.edu/assets/images/downloads/logos/cornell_logo_simple/cornell_logo_simple_black.svg" height="100"> -->
+<img src="https://brand.cornell.edu/assets/images/examples/lockup-colleges/lockup_engineering.svg" height="100">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav--joshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aj642@cornell.edu) 
